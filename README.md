@@ -1,9 +1,8 @@
 # Sprint_15_Project
-Sprint 15 Final Project
 
-My Sprint 15, Computer Vision, project. Sprint length was 2 weeks.
+*My Sprint 15, Computer Vision, project. Sprint length was 2 weeks.*
 
-Instructions provided by TripleTen program:
+***Instructions provided by TripleTen program:***
 
 Congratulations! You’ve completed yet another course on our training platform. Now it's time to test your skills by solving a new machine learning problem. For this project, you'll be on your own.
 
@@ -13,7 +12,7 @@ This process usually has to be repeated several times until everything gets the 
 
 Your project will be considered complete when the project reviewer approves it.
 
-Project description
+## Project description
 
 The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. You are asked to conduct that evaluation, so as you set to work, keep the following in mind:
 
@@ -23,7 +22,7 @@ The supermarket chain Good Seed would like to explore whether Data Science can h
 
 To start working on the task, you'll have a set of photographs of people with their ages indicated.
 
-Project Instructions
+## Project Instructions
 
 1. Pass a quiz to verify your understanding of the project statement.
 2. Perform exploratory data analysis to get an overall impression of the dataset.
@@ -32,9 +31,9 @@ Project Instructions
 5. Make conclusions of the model evaluation, add them to the notebook.
 6. Project reviewers will review your final notebook.
 
-NOTE: A template Jupyter notebook is provided for you in the next lesson. It contains some hints and precode to help guide you in training and analyzing your model. Please refer to this notebook if you’re having trouble getting started.
+**NOTE: A template Jupyter notebook is provided for you in the next lesson. It contains some hints and precode to help guide you in training and analyzing your model. Please refer to this notebook if you’re having trouble getting started.**
 
-Project Evaluation
+## Project Evaluation
 
 We’ve put together the evaluation criteria for the project. Read them carefully before moving on to the task:
 
